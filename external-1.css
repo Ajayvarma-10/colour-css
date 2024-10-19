@@ -1,0 +1,35 @@
+section{
+    background-color: aqua;
+    color: balck;
+    text-align: end;
+    font-size: small;
+}
+.key{
+    background-color: rgb(91, 9, 9);
+    color: white;
+    font-size: 20;
+}
+#education{
+    background-color: blue;
+    color: rgb(153, 152, 155);
+    font-size: 20;
+}
+
+#project{
+    background-color: rgb(3, 24, 27);
+    color: rgb(99, 104, 96);
+    font-size: 20;
+}
+.goals{
+    background-color: black;
+    color: white;
+}
+.hobbies{
+    background-color: chocolate;
+    color: rgb(140, 20, 151);
+    font-size: 20;
+}
+#PERSONAL{
+     background-color: darkgreen;
+    color: darkturquoise;
+}
